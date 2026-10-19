@@ -19,17 +19,17 @@
 <tr>
 <td>fried fish</td>
 <th>fish,oil</th>
-<th>$18.99
+<th>$16.00
 </tr>
 <tr>
 <td>Caesar salad </td>
 <th>lettuce, Parmesan cheese,croutons and dressing</th>
-<th>$7.99
+<th>$7.00
 </tr>
 <tr>
 <td>Steak</td>
 <th>steak,Salt</th>
-<th>$19.99
+<th>$20.00
 </tr>
 </tbody>
 </table>
